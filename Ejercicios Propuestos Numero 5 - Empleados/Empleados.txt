@@ -1,0 +1,5 @@
+﻿Esculapio,Gonzales,11-08-1989,80111Nicanor,Lopez,12-01-1991,57488Remedios,Baez,26-02-1984,73491Ramona,Gomez,08-10-1992,161544
+Raul,Balbo,12-01-1992,57488
+Candido,Gonzales,29-09-1979,54420Julia,Ibarra,23-02-1983,39535Manuel,Magro,19-03-1973,91159
+Eloisa,López,03-09-1970,166031Manuel,Gimenes,12-05-1976,126564
+Luis,Prieto,10-05-1986,115058
